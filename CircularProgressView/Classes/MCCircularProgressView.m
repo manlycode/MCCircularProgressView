@@ -67,8 +67,8 @@
 
 -(void) buildCircleProperties:(CAShapeLayer*)shape {
     if (_circleColor == nil) {
-        _circleColor = [UIColor colorWithRed:250.0/255.0
-                                           green:250.0/255.0
+        _circleColor = [UIColor colorWithRed:0.0/255.0
+                                           green:0.0/255.0
                                             blue:250.0/255.0
                                            alpha:0.8];
     }

@@ -23,6 +23,9 @@
 		A76D55D517F9EA62005E9EB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A76D55D317F9EA62005E9EB0 /* InfoPlist.strings */; };
 		A76D55D717F9EA62005E9EB0 /* CircularProgressViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */; };
 		A76D55E417F9ECD6005E9EB0 /* MCCircularProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */; };
+		A76D55E917F9F552005E9EB0 /* small.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55E617F9F552005E9EB0 /* small.PNG */; };
+		A76D55EA17F9F552005E9EB0 /* medium.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55E717F9F552005E9EB0 /* medium.PNG */; };
+		A76D55EB17F9F552005E9EB0 /* large.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55E817F9F552005E9EB0 /* large.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +61,9 @@
 		A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircularProgressViewTests.m; sourceTree = "<group>"; };
 		A76D55E217F9ECD6005E9EB0 /* MCCircularProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCCircularProgressView.h; sourceTree = "<group>"; };
 		A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCCircularProgressView.m; sourceTree = "<group>"; };
+		A76D55E617F9F552005E9EB0 /* small.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = small.PNG; sourceTree = "<group>"; };
+		A76D55E717F9F552005E9EB0 /* medium.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medium.PNG; sourceTree = "<group>"; };
+		A76D55E817F9F552005E9EB0 /* large.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = large.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +123,7 @@
 		A76D55AE17F9EA62005E9EB0 /* CircularProgressView */ = {
 			isa = PBXGroup;
 			children = (
+				A76D55E517F9F53B005E9EB0 /* Screenshots */,
 				A76D55E117F9EC53005E9EB0 /* Classes */,
 				A76D55B717F9EA62005E9EB0 /* MCAppDelegate.h */,
 				A76D55B817F9EA62005E9EB0 /* MCAppDelegate.m */,
@@ -166,6 +173,16 @@
 				A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		A76D55E517F9F53B005E9EB0 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				A76D55E617F9F552005E9EB0 /* small.PNG */,
+				A76D55E717F9F552005E9EB0 /* medium.PNG */,
+				A76D55E817F9F552005E9EB0 /* large.PNG */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,8 +263,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				A76D55BF17F9EA62005E9EB0 /* Main_iPad.storyboard in Resources */,
+				A76D55EB17F9F552005E9EB0 /* large.PNG in Resources */,
 				A76D55C417F9EA62005E9EB0 /* Images.xcassets in Resources */,
 				A76D55BC17F9EA62005E9EB0 /* Main_iPhone.storyboard in Resources */,
+				A76D55E917F9F552005E9EB0 /* small.PNG in Resources */,
+				A76D55EA17F9F552005E9EB0 /* medium.PNG in Resources */,
 				A76D55B317F9EA62005E9EB0 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
