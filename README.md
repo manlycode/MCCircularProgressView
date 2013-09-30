@@ -46,6 +46,6 @@ progressView.circleColor = [UIColor redColor];
 
 ## Screenshots
 
-![CircularProgressView with some progress](/CircularProgressView/Screenshots/small.png "")
-![CircularProgressView with more progress](/CircularProgressView/Screenshots/medium.png "")
-![CircularProgressView with even more progress](/CircularProgressView/Screenshots/large.png "")
+![CircularProgressView with some progress](CircularProgressView/Screenshots/small.png "")
+![CircularProgressView with more progress](CircularProgressView/Screenshots/medium.png "")
+![CircularProgressView with even more progress](CircularProgressView/Screenshots/large.png "")
