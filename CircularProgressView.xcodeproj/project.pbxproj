@@ -114,6 +114,7 @@
 		A76D55AE17F9EA62005E9EB0 /* CircularProgressView */ = {
 			isa = PBXGroup;
 			children = (
+				A76D55E117F9EC53005E9EB0 /* Classes */,
 				A76D55B717F9EA62005E9EB0 /* MCAppDelegate.h */,
 				A76D55B817F9EA62005E9EB0 /* MCAppDelegate.m */,
 				A76D55BA17F9EA62005E9EB0 /* Main_iPhone.storyboard */,
@@ -153,6 +154,13 @@
 				A76D55D317F9EA62005E9EB0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A76D55E117F9EC53005E9EB0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
