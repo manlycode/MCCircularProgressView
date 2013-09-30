@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MCCircularProgressView.h"
 
-@interface MCViewController : UIViewController
+
+@interface MCViewController : UIViewController {
+    float percentDone;
+}
+
+@property (nonatomic) IBOutlet MCCircularProgressView *cpv1;
+@property (nonatomic) IBOutlet MCCircularProgressView *cpv2;
+@property (nonatomic) IBOutlet MCCircularProgressView *cpv3;
 
 @end

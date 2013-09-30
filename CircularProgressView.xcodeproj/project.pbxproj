@@ -22,6 +22,7 @@
 		A76D55CD17F9EA62005E9EB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55AC17F9EA62005E9EB0 /* UIKit.framework */; };
 		A76D55D517F9EA62005E9EB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A76D55D317F9EA62005E9EB0 /* InfoPlist.strings */; };
 		A76D55D717F9EA62005E9EB0 /* CircularProgressViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */; };
+		A76D55E417F9ECD6005E9EB0 /* MCCircularProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		A76D55D217F9EA62005E9EB0 /* CircularProgressViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CircularProgressViewTests-Info.plist"; sourceTree = "<group>"; };
 		A76D55D417F9EA62005E9EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircularProgressViewTests.m; sourceTree = "<group>"; };
+		A76D55E217F9ECD6005E9EB0 /* MCCircularProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCCircularProgressView.h; sourceTree = "<group>"; };
+		A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCCircularProgressView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +162,8 @@
 		A76D55E117F9EC53005E9EB0 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				A76D55E217F9ECD6005E9EB0 /* MCCircularProgressView.h */,
+				A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				A76D55B917F9EA62005E9EB0 /* MCAppDelegate.m in Sources */,
 				A76D55C217F9EA62005E9EB0 /* MCViewController.m in Sources */,
 				A76D55B517F9EA62005E9EB0 /* main.m in Sources */,
+				A76D55E417F9ECD6005E9EB0 /* MCCircularProgressView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
