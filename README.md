@@ -1,4 +1,4 @@
-# CircularProgressView
+# MCCircularProgressView
 A scalable progress view that fits in a tiny amount of space.
 
 ## Installation
@@ -6,10 +6,8 @@ A scalable progress view that fits in a tiny amount of space.
 CocoaPods
 
 ```ruby
-pod 'CircularProgressView', '~> 1.0.0'
+pod 'MCCircularProgressView', '~> 1.0.4'
 ```
-
-
 
 ## How to use
 
@@ -46,6 +44,6 @@ progressView.circleColor = [UIColor redColor];
 
 ## Screenshots
 
-![CircularProgressView with some progress](/CircularProgressView/Screenshots/small.PNG?raw=true "")
-![CircularProgressView with more progress](/CircularProgressView/Screenshots/medium.PNG?raw=true"")
-![CircularProgressView with even more progress](/CircularProgressView/Screenshots/large.PNG?raw=true "")
+![MCCircularProgressView with some progress](/MCCircularProgressView/Screenshots/small.PNG?raw=true "")
+![MCCircularProgressView with more progress](/MCCircularProgressView/Screenshots/medium.PNG?raw=true"")
+![MCCircularProgressView with even more progress](/MCCircularProgressView/Screenshots/large.PNG?raw=true "")
