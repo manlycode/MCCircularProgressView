@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A76D55A417F9EA62005E9EB0"
                BuildableName = "CircularProgressView.app"
-               BlueprintName = "CircularProgressView"
-               ReferencedContainer = "container:CircularProgressView.xcodeproj">
+               BlueprintName = "MCCircularProgressView"
+               ReferencedContainer = "container:MCCircularProgressView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A76D55C817F9EA62005E9EB0"
                BuildableName = "CircularProgressViewTests.xctest"
-               BlueprintName = "CircularProgressViewTests"
-               ReferencedContainer = "container:CircularProgressView.xcodeproj">
+               BlueprintName = "MCCircularProgressViewTests"
+               ReferencedContainer = "container:MCCircularProgressView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A76D55A417F9EA62005E9EB0"
             BuildableName = "CircularProgressView.app"
-            BlueprintName = "CircularProgressView"
-            ReferencedContainer = "container:CircularProgressView.xcodeproj">
+            BlueprintName = "MCCircularProgressView"
+            ReferencedContainer = "container:MCCircularProgressView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A76D55A417F9EA62005E9EB0"
             BuildableName = "CircularProgressView.app"
-            BlueprintName = "CircularProgressView"
-            ReferencedContainer = "container:CircularProgressView.xcodeproj">
+            BlueprintName = "MCCircularProgressView"
+            ReferencedContainer = "container:MCCircularProgressView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A76D55A417F9EA62005E9EB0"
             BuildableName = "CircularProgressView.app"
-            BlueprintName = "CircularProgressView"
-            ReferencedContainer = "container:CircularProgressView.xcodeproj">
+            BlueprintName = "MCCircularProgressView"
+            ReferencedContainer = "container:MCCircularProgressView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

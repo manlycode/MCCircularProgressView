@@ -10,22 +10,23 @@
 		A76D55A917F9EA62005E9EB0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55A817F9EA62005E9EB0 /* Foundation.framework */; };
 		A76D55AB17F9EA62005E9EB0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55AA17F9EA62005E9EB0 /* CoreGraphics.framework */; };
 		A76D55AD17F9EA62005E9EB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55AC17F9EA62005E9EB0 /* UIKit.framework */; };
-		A76D55B317F9EA62005E9EB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A76D55B117F9EA62005E9EB0 /* InfoPlist.strings */; };
-		A76D55B517F9EA62005E9EB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55B417F9EA62005E9EB0 /* main.m */; };
-		A76D55B917F9EA62005E9EB0 /* MCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55B817F9EA62005E9EB0 /* MCAppDelegate.m */; };
-		A76D55BC17F9EA62005E9EB0 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76D55BA17F9EA62005E9EB0 /* Main_iPhone.storyboard */; };
-		A76D55BF17F9EA62005E9EB0 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76D55BD17F9EA62005E9EB0 /* Main_iPad.storyboard */; };
-		A76D55C217F9EA62005E9EB0 /* MCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55C117F9EA62005E9EB0 /* MCViewController.m */; };
-		A76D55C417F9EA62005E9EB0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A76D55C317F9EA62005E9EB0 /* Images.xcassets */; };
 		A76D55CB17F9EA62005E9EB0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55CA17F9EA62005E9EB0 /* XCTest.framework */; };
 		A76D55CC17F9EA62005E9EB0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55A817F9EA62005E9EB0 /* Foundation.framework */; };
 		A76D55CD17F9EA62005E9EB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76D55AC17F9EA62005E9EB0 /* UIKit.framework */; };
 		A76D55D517F9EA62005E9EB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A76D55D317F9EA62005E9EB0 /* InfoPlist.strings */; };
 		A76D55D717F9EA62005E9EB0 /* CircularProgressViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */; };
-		A76D55E417F9ECD6005E9EB0 /* MCCircularProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */; };
-		A76D55E917F9F552005E9EB0 /* small.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55E617F9F552005E9EB0 /* small.PNG */; };
-		A76D55EA17F9F552005E9EB0 /* medium.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55E717F9F552005E9EB0 /* medium.PNG */; };
-		A76D55EB17F9F552005E9EB0 /* large.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55E817F9F552005E9EB0 /* large.PNG */; };
+		A76D560217FA0476005E9EB0 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76D55ED17FA0476005E9EB0 /* Main_iPad.storyboard */; };
+		A76D560317FA0476005E9EB0 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76D55EF17FA0476005E9EB0 /* Main_iPhone.storyboard */; };
+		A76D560417FA0476005E9EB0 /* MCCircularProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55F317FA0476005E9EB0 /* MCCircularProgressView.m */; };
+		A76D560517FA0476005E9EB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A76D55F417FA0476005E9EB0 /* InfoPlist.strings */; };
+		A76D560617FA0476005E9EB0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A76D55F617FA0476005E9EB0 /* Images.xcassets */; };
+		A76D560717FA0476005E9EB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55F717FA0476005E9EB0 /* main.m */; };
+		A76D560817FA0476005E9EB0 /* MCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55F917FA0476005E9EB0 /* MCAppDelegate.m */; };
+		A76D560917FA0476005E9EB0 /* MCCircularProgressView-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A76D55FA17FA0476005E9EB0 /* MCCircularProgressView-Info.plist */; };
+		A76D560A17FA0476005E9EB0 /* MCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A76D55FD17FA0476005E9EB0 /* MCViewController.m */; };
+		A76D560B17FA0476005E9EB0 /* large.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D55FF17FA0476005E9EB0 /* large.PNG */; };
+		A76D560C17FA0476005E9EB0 /* medium.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D560017FA0476005E9EB0 /* medium.PNG */; };
+		A76D560D17FA0476005E9EB0 /* small.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A76D560117FA0476005E9EB0 /* small.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,31 +40,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A76D55A517F9EA62005E9EB0 /* CircularProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircularProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A76D55A517F9EA62005E9EB0 /* MCCircularProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCCircularProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A76D55A817F9EA62005E9EB0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A76D55AA17F9EA62005E9EB0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		A76D55AC17F9EA62005E9EB0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		A76D55B017F9EA62005E9EB0 /* CircularProgressView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CircularProgressView-Info.plist"; sourceTree = "<group>"; };
-		A76D55B217F9EA62005E9EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		A76D55B417F9EA62005E9EB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A76D55B617F9EA62005E9EB0 /* CircularProgressView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CircularProgressView-Prefix.pch"; sourceTree = "<group>"; };
-		A76D55B717F9EA62005E9EB0 /* MCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MCAppDelegate.h; sourceTree = "<group>"; };
-		A76D55B817F9EA62005E9EB0 /* MCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCAppDelegate.m; sourceTree = "<group>"; };
-		A76D55BB17F9EA62005E9EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
-		A76D55BE17F9EA62005E9EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		A76D55C017F9EA62005E9EB0 /* MCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MCViewController.h; sourceTree = "<group>"; };
-		A76D55C117F9EA62005E9EB0 /* MCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCViewController.m; sourceTree = "<group>"; };
-		A76D55C317F9EA62005E9EB0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		A76D55C917F9EA62005E9EB0 /* CircularProgressViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CircularProgressViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A76D55C917F9EA62005E9EB0 /* MCCircularProgressViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCCircularProgressViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A76D55CA17F9EA62005E9EB0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		A76D55D217F9EA62005E9EB0 /* CircularProgressViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CircularProgressViewTests-Info.plist"; sourceTree = "<group>"; };
+		A76D55D217F9EA62005E9EB0 /* MCCircularProgressViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MCCircularProgressViewTests-Info.plist"; sourceTree = "<group>"; };
 		A76D55D417F9EA62005E9EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircularProgressViewTests.m; sourceTree = "<group>"; };
-		A76D55E217F9ECD6005E9EB0 /* MCCircularProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCCircularProgressView.h; sourceTree = "<group>"; };
-		A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCCircularProgressView.m; sourceTree = "<group>"; };
-		A76D55E617F9F552005E9EB0 /* small.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = small.PNG; sourceTree = "<group>"; };
-		A76D55E717F9F552005E9EB0 /* medium.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medium.PNG; sourceTree = "<group>"; };
-		A76D55E817F9F552005E9EB0 /* large.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = large.PNG; sourceTree = "<group>"; };
+		A76D55EE17FA0476005E9EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
+		A76D55F017FA0476005E9EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
+		A76D55F217FA0476005E9EB0 /* MCCircularProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCCircularProgressView.h; sourceTree = "<group>"; };
+		A76D55F317FA0476005E9EB0 /* MCCircularProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCCircularProgressView.m; sourceTree = "<group>"; };
+		A76D55F517FA0476005E9EB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A76D55F617FA0476005E9EB0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A76D55F717FA0476005E9EB0 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A76D55F817FA0476005E9EB0 /* MCAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCAppDelegate.h; sourceTree = "<group>"; };
+		A76D55F917FA0476005E9EB0 /* MCAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCAppDelegate.m; sourceTree = "<group>"; };
+		A76D55FA17FA0476005E9EB0 /* MCCircularProgressView-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MCCircularProgressView-Info.plist"; sourceTree = "<group>"; };
+		A76D55FB17FA0476005E9EB0 /* MCCircularProgressView-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MCCircularProgressView-Prefix.pch"; sourceTree = "<group>"; };
+		A76D55FC17FA0476005E9EB0 /* MCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCViewController.h; sourceTree = "<group>"; };
+		A76D55FD17FA0476005E9EB0 /* MCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCViewController.m; sourceTree = "<group>"; };
+		A76D55FF17FA0476005E9EB0 /* large.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = large.PNG; sourceTree = "<group>"; };
+		A76D560017FA0476005E9EB0 /* medium.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medium.PNG; sourceTree = "<group>"; };
+		A76D560117FA0476005E9EB0 /* small.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = small.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,8 +94,8 @@
 		A76D559C17F9EA62005E9EB0 = {
 			isa = PBXGroup;
 			children = (
-				A76D55AE17F9EA62005E9EB0 /* CircularProgressView */,
-				A76D55D017F9EA62005E9EB0 /* CircularProgressViewTests */,
+				A76D55EC17FA0476005E9EB0 /* MCCircularProgressView */,
+				A76D55D017F9EA62005E9EB0 /* MCCircularProgressViewTests */,
 				A76D55A717F9EA62005E9EB0 /* Frameworks */,
 				A76D55A617F9EA62005E9EB0 /* Products */,
 			);
@@ -103,8 +104,8 @@
 		A76D55A617F9EA62005E9EB0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A76D55A517F9EA62005E9EB0 /* CircularProgressView.app */,
-				A76D55C917F9EA62005E9EB0 /* CircularProgressViewTests.xctest */,
+				A76D55A517F9EA62005E9EB0 /* MCCircularProgressView.app */,
+				A76D55C917F9EA62005E9EB0 /* MCCircularProgressViewTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -120,67 +121,60 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		A76D55AE17F9EA62005E9EB0 /* CircularProgressView */ = {
-			isa = PBXGroup;
-			children = (
-				A76D55E517F9F53B005E9EB0 /* Screenshots */,
-				A76D55E117F9EC53005E9EB0 /* Classes */,
-				A76D55B717F9EA62005E9EB0 /* MCAppDelegate.h */,
-				A76D55B817F9EA62005E9EB0 /* MCAppDelegate.m */,
-				A76D55BA17F9EA62005E9EB0 /* Main_iPhone.storyboard */,
-				A76D55BD17F9EA62005E9EB0 /* Main_iPad.storyboard */,
-				A76D55C017F9EA62005E9EB0 /* MCViewController.h */,
-				A76D55C117F9EA62005E9EB0 /* MCViewController.m */,
-				A76D55C317F9EA62005E9EB0 /* Images.xcassets */,
-				A76D55AF17F9EA62005E9EB0 /* Supporting Files */,
-			);
-			path = CircularProgressView;
-			sourceTree = "<group>";
-		};
-		A76D55AF17F9EA62005E9EB0 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				A76D55B017F9EA62005E9EB0 /* CircularProgressView-Info.plist */,
-				A76D55B117F9EA62005E9EB0 /* InfoPlist.strings */,
-				A76D55B417F9EA62005E9EB0 /* main.m */,
-				A76D55B617F9EA62005E9EB0 /* CircularProgressView-Prefix.pch */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		A76D55D017F9EA62005E9EB0 /* CircularProgressViewTests */ = {
+		A76D55D017F9EA62005E9EB0 /* MCCircularProgressViewTests */ = {
 			isa = PBXGroup;
 			children = (
 				A76D55D617F9EA62005E9EB0 /* CircularProgressViewTests.m */,
 				A76D55D117F9EA62005E9EB0 /* Supporting Files */,
 			);
+			name = MCCircularProgressViewTests;
 			path = CircularProgressViewTests;
 			sourceTree = "<group>";
 		};
 		A76D55D117F9EA62005E9EB0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A76D55D217F9EA62005E9EB0 /* CircularProgressViewTests-Info.plist */,
+				A76D55D217F9EA62005E9EB0 /* MCCircularProgressViewTests-Info.plist */,
 				A76D55D317F9EA62005E9EB0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		A76D55E117F9EC53005E9EB0 /* Classes */ = {
+		A76D55EC17FA0476005E9EB0 /* MCCircularProgressView */ = {
 			isa = PBXGroup;
 			children = (
-				A76D55E217F9ECD6005E9EB0 /* MCCircularProgressView.h */,
-				A76D55E317F9ECD6005E9EB0 /* MCCircularProgressView.m */,
+				A76D55ED17FA0476005E9EB0 /* Main_iPad.storyboard */,
+				A76D55EF17FA0476005E9EB0 /* Main_iPhone.storyboard */,
+				A76D55F117FA0476005E9EB0 /* Classes */,
+				A76D55F417FA0476005E9EB0 /* InfoPlist.strings */,
+				A76D55F617FA0476005E9EB0 /* Images.xcassets */,
+				A76D55F717FA0476005E9EB0 /* main.m */,
+				A76D55F817FA0476005E9EB0 /* MCAppDelegate.h */,
+				A76D55F917FA0476005E9EB0 /* MCAppDelegate.m */,
+				A76D55FA17FA0476005E9EB0 /* MCCircularProgressView-Info.plist */,
+				A76D55FB17FA0476005E9EB0 /* MCCircularProgressView-Prefix.pch */,
+				A76D55FC17FA0476005E9EB0 /* MCViewController.h */,
+				A76D55FD17FA0476005E9EB0 /* MCViewController.m */,
+				A76D55FE17FA0476005E9EB0 /* Screenshots */,
+			);
+			path = MCCircularProgressView;
+			sourceTree = "<group>";
+		};
+		A76D55F117FA0476005E9EB0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A76D55F217FA0476005E9EB0 /* MCCircularProgressView.h */,
+				A76D55F317FA0476005E9EB0 /* MCCircularProgressView.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		A76D55E517F9F53B005E9EB0 /* Screenshots */ = {
+		A76D55FE17FA0476005E9EB0 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				A76D55E617F9F552005E9EB0 /* small.PNG */,
-				A76D55E717F9F552005E9EB0 /* medium.PNG */,
-				A76D55E817F9F552005E9EB0 /* large.PNG */,
+				A76D55FF17FA0476005E9EB0 /* large.PNG */,
+				A76D560017FA0476005E9EB0 /* medium.PNG */,
+				A76D560117FA0476005E9EB0 /* small.PNG */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -188,9 +182,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A76D55A417F9EA62005E9EB0 /* CircularProgressView */ = {
+		A76D55A417F9EA62005E9EB0 /* MCCircularProgressView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A76D55DA17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "CircularProgressView" */;
+			buildConfigurationList = A76D55DA17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "MCCircularProgressView" */;
 			buildPhases = (
 				A76D55A117F9EA62005E9EB0 /* Sources */,
 				A76D55A217F9EA62005E9EB0 /* Frameworks */,
@@ -200,14 +194,14 @@
 			);
 			dependencies = (
 			);
-			name = CircularProgressView;
+			name = MCCircularProgressView;
 			productName = CircularProgressView;
-			productReference = A76D55A517F9EA62005E9EB0 /* CircularProgressView.app */;
+			productReference = A76D55A517F9EA62005E9EB0 /* MCCircularProgressView.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A76D55C817F9EA62005E9EB0 /* CircularProgressViewTests */ = {
+		A76D55C817F9EA62005E9EB0 /* MCCircularProgressViewTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A76D55DD17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "CircularProgressViewTests" */;
+			buildConfigurationList = A76D55DD17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "MCCircularProgressViewTests" */;
 			buildPhases = (
 				A76D55C517F9EA62005E9EB0 /* Sources */,
 				A76D55C617F9EA62005E9EB0 /* Frameworks */,
@@ -218,9 +212,9 @@
 			dependencies = (
 				A76D55CF17F9EA62005E9EB0 /* PBXTargetDependency */,
 			);
-			name = CircularProgressViewTests;
+			name = MCCircularProgressViewTests;
 			productName = CircularProgressViewTests;
-			productReference = A76D55C917F9EA62005E9EB0 /* CircularProgressViewTests.xctest */;
+			productReference = A76D55C917F9EA62005E9EB0 /* MCCircularProgressViewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -238,7 +232,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A76D55A017F9EA62005E9EB0 /* Build configuration list for PBXProject "CircularProgressView" */;
+			buildConfigurationList = A76D55A017F9EA62005E9EB0 /* Build configuration list for PBXProject "MCCircularProgressView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -251,8 +245,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A76D55A417F9EA62005E9EB0 /* CircularProgressView */,
-				A76D55C817F9EA62005E9EB0 /* CircularProgressViewTests */,
+				A76D55A417F9EA62005E9EB0 /* MCCircularProgressView */,
+				A76D55C817F9EA62005E9EB0 /* MCCircularProgressViewTests */,
 			);
 		};
 /* End PBXProject section */
@@ -262,13 +256,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A76D55BF17F9EA62005E9EB0 /* Main_iPad.storyboard in Resources */,
-				A76D55EB17F9F552005E9EB0 /* large.PNG in Resources */,
-				A76D55C417F9EA62005E9EB0 /* Images.xcassets in Resources */,
-				A76D55BC17F9EA62005E9EB0 /* Main_iPhone.storyboard in Resources */,
-				A76D55E917F9F552005E9EB0 /* small.PNG in Resources */,
-				A76D55EA17F9F552005E9EB0 /* medium.PNG in Resources */,
-				A76D55B317F9EA62005E9EB0 /* InfoPlist.strings in Resources */,
+				A76D560317FA0476005E9EB0 /* Main_iPhone.storyboard in Resources */,
+				A76D560917FA0476005E9EB0 /* MCCircularProgressView-Info.plist in Resources */,
+				A76D560617FA0476005E9EB0 /* Images.xcassets in Resources */,
+				A76D560C17FA0476005E9EB0 /* medium.PNG in Resources */,
+				A76D560517FA0476005E9EB0 /* InfoPlist.strings in Resources */,
+				A76D560D17FA0476005E9EB0 /* small.PNG in Resources */,
+				A76D560217FA0476005E9EB0 /* Main_iPad.storyboard in Resources */,
+				A76D560B17FA0476005E9EB0 /* large.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,10 +282,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A76D55B917F9EA62005E9EB0 /* MCAppDelegate.m in Sources */,
-				A76D55C217F9EA62005E9EB0 /* MCViewController.m in Sources */,
-				A76D55B517F9EA62005E9EB0 /* main.m in Sources */,
-				A76D55E417F9ECD6005E9EB0 /* MCCircularProgressView.m in Sources */,
+				A76D560A17FA0476005E9EB0 /* MCViewController.m in Sources */,
+				A76D560717FA0476005E9EB0 /* main.m in Sources */,
+				A76D560417FA0476005E9EB0 /* MCCircularProgressView.m in Sources */,
+				A76D560817FA0476005E9EB0 /* MCAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,40 +302,40 @@
 /* Begin PBXTargetDependency section */
 		A76D55CF17F9EA62005E9EB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A76D55A417F9EA62005E9EB0 /* CircularProgressView */;
+			target = A76D55A417F9EA62005E9EB0 /* MCCircularProgressView */;
 			targetProxy = A76D55CE17F9EA62005E9EB0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		A76D55B117F9EA62005E9EB0 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A76D55B217F9EA62005E9EB0 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		A76D55BA17F9EA62005E9EB0 /* Main_iPhone.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A76D55BB17F9EA62005E9EB0 /* Base */,
-			);
-			name = Main_iPhone.storyboard;
-			sourceTree = "<group>";
-		};
-		A76D55BD17F9EA62005E9EB0 /* Main_iPad.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A76D55BE17F9EA62005E9EB0 /* Base */,
-			);
-			name = Main_iPad.storyboard;
-			sourceTree = "<group>";
-		};
 		A76D55D317F9EA62005E9EB0 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				A76D55D417F9EA62005E9EB0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A76D55ED17FA0476005E9EB0 /* Main_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A76D55EE17FA0476005E9EB0 /* Base */,
+			);
+			name = Main_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		A76D55EF17FA0476005E9EB0 /* Main_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A76D55F017FA0476005E9EB0 /* Base */,
+			);
+			name = Main_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		A76D55F417FA0476005E9EB0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A76D55F517FA0476005E9EB0 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -428,9 +423,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CircularProgressView/CircularProgressView-Prefix.pch";
-				INFOPLIST_FILE = "CircularProgressView/CircularProgressView-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "MCCircularProgressView/MCCircularProgressView-Prefix.pch";
+				INFOPLIST_FILE = "MCCircularProgressView/MCCircularProgressView-Info.plist";
+				PRODUCT_NAME = MCCircularProgressView;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -441,9 +436,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CircularProgressView/CircularProgressView-Prefix.pch";
-				INFOPLIST_FILE = "CircularProgressView/CircularProgressView-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "MCCircularProgressView/MCCircularProgressView-Prefix.pch";
+				INFOPLIST_FILE = "MCCircularProgressView/MCCircularProgressView-Info.plist";
+				PRODUCT_NAME = MCCircularProgressView;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -464,8 +459,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "CircularProgressViewTests/CircularProgressViewTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "CircularProgressViewTests/MCCircularProgressViewTests-Info.plist";
+				PRODUCT_NAME = MCCircularProgressViewTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -483,8 +478,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CircularProgressView/CircularProgressView-Prefix.pch";
-				INFOPLIST_FILE = "CircularProgressViewTests/CircularProgressViewTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "CircularProgressViewTests/MCCircularProgressViewTests-Info.plist";
+				PRODUCT_NAME = MCCircularProgressViewTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -493,7 +488,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A76D55A017F9EA62005E9EB0 /* Build configuration list for PBXProject "CircularProgressView" */ = {
+		A76D55A017F9EA62005E9EB0 /* Build configuration list for PBXProject "MCCircularProgressView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A76D55D817F9EA62005E9EB0 /* Debug */,
@@ -502,7 +497,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A76D55DA17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "CircularProgressView" */ = {
+		A76D55DA17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "MCCircularProgressView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A76D55DB17F9EA62005E9EB0 /* Debug */,
@@ -510,7 +505,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		A76D55DD17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "CircularProgressViewTests" */ = {
+		A76D55DD17F9EA62005E9EB0 /* Build configuration list for PBXNativeTarget "MCCircularProgressViewTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A76D55DE17F9EA62005E9EB0 /* Debug */,
