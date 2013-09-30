@@ -12,7 +12,7 @@
 }
 
 
-@property (nonatomic) UIColor *circleColor;
+@property (nonatomic, strong) UIColor *circleColor;
 
 -(void) updatePercentDone:(CGFloat)progress;
 -(void) hide;
